@@ -1,0 +1,20 @@
+.flex {
+  display: flex;
+}
+
+.container {
+  margin: 0 auto;
+  padding: 0.5rem;
+}
+
+.itemsCenter {
+  align-items: center;
+}
+
+.margin {
+  margin: 4rem;
+}
+
+.wFull {
+  width: 100%;
+}
